@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeLog", "TimeLog\TimeLog.csproj", "{A10B07A2-6BA4-4A6D-A3E9-89D62F8D9B25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{76889E4B-0D1C-4B08-B4EA-C6C5BFE3FB75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A10B07A2-6BA4-4A6D-A3E9-89D62F8D9B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10B07A2-6BA4-4A6D-A3E9-89D62F8D9B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10B07A2-6BA4-4A6D-A3E9-89D62F8D9B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10B07A2-6BA4-4A6D-A3E9-89D62F8D9B25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74887D19-EAFA-43DB-BE4D-D2D9F2029C47}
+	EndGlobalSection
+EndGlobal
